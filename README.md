@@ -2,9 +2,9 @@
 
 Os dados deste trabalho foram extraídos do Portal mavenanalytics.io, com múltiplas tabelas de dados de um ano de atividade de uma pizzaria fictícia.
 
-Para este mini-projeto, ao verificar que os dados apresentavam alguns problemas, foi aplicado diferentes técnicas de análise, a exemplo do tratamento de valores ausentes, sumarização e engenharia de atributos, especialmente de modo a fazer uso da segmentação dos ingredientes de cada pizza, considerando que a lista de ingredientes era um campo único no formato texto.
+Para este mini-projeto, ao verificar que os dados apresentavam alguns problemas, foi aplicado diferentes técnicas de análises de dados, a exemplo do tratamento de valores ausentes, sumarização e engenharia de atributos, especialmente de modo a fazer uso da segmentação dos ingredientes de cada pizza, considerando que a lista de ingredientes era um campo único no formato texto.
 
-O Dashboard foi criado no Power Bi, com a finalidade de trazer à Pizzaria algumas questões com técnicas de análise de dados, possibilitando a tomada de decisões informadas impactando o seu faturamento, quais pizzas manter no cardápio ao verificar a popularidade de cada produto, bem como, ajustar os preços.
+O Dashboard foi criado no Power Bi, com a finalidade de trazer à Pizzaria algumas análises, possibilitando tomadas de decisões baseadas em informações, que tendem a impactar diretamente o faturamento da empresas, a exemplo de quais pizzas manter no cardápio ao verificar a popularidade de cada produto, bem como, ajustar os preços.
 
 Aqui, as questões que foram abordadas:
 
